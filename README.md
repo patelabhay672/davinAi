@@ -1,1 +1,1 @@
-# davinAi
+# davinAi in development phase
